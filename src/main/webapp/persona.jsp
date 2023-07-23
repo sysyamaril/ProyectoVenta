@@ -13,7 +13,6 @@
 
 	<div class="container">
 		<h1>Nuevo Registro</h1>
-		<div class="row">
 			<div class="col-6 col-sm-4">
 				<form action="ProductServlet?type=registrar" method="post">
 					<input class="form-control" type="text" style="display: none"
